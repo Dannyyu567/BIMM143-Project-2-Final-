@@ -3,9 +3,9 @@ This is my Project 2 for BIMM 143 using four different bioinformatic methods. My
 
 In this repository you will need to download the html/rmd file and all of the files listed to run the code. Explanation of the code is done below in the Explanation of files section.
 
-Scientific Question Are there differences in the amino acid sequence of alliin lyase and lectin in Allium cepa (onion) and Allium sativum (garlic) that make the smell and flavor of these two vegetables unique?
+Scientific Question: Are there differences in the amino acid sequence of alliin lyase and lectin in Allium cepa (onion) and Allium sativum (garlic) that make the smell and flavor of these two vegetables unique?
 
-Scientific Hypothesis If the difference in flavor and smell profiles of Allium cepa and Allium sativum is caused by differences in the amino acid sequence of the plant’s defensive proteins against herbivores, then there will be observable differences in the amino acid sequence of key defensive proteins such as alliin lyase (alliinase) and lectin.
+Scientific Hypothesis: If the difference in flavor and smell profiles of Allium cepa and Allium sativum is caused by differences in the amino acid sequence of the plant’s defensive proteins against herbivores, then there will be observable differences in the amino acid sequence of key defensive proteins such as alliin lyase (alliinase) and lectin.
 
 Explanation of Files!
 
